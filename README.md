@@ -14,11 +14,9 @@ A passionate full stack AI developer
 
 - 🌱 I’m currently learning **Vertex AI (Google Cloud Services)**
 
-- 💬 Ask me about  
-  **JavaScript, .NET, Python, Machine Learning, Django, React, AWS, Databases**
+- 💬 Ask me about **JavaScript, .NET, Python, Machine Learning, Django, React, AWS, Databases**
 
-- 📫 How to reach me:  
-  **theasadabbasdev@gmail.com**
+- 📫 How to reach me: **theasadabbasdev@gmail.com**
 
 - ⚡ Fun fact: **I’m good at sports**
 
