@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./asadabbas.jpg" alt="Asad Abbas" width="180" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Asad Abbas</h1>
 
 <p align="center">
