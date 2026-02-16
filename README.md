@@ -10,7 +10,7 @@ A passionate full stack AI developer
 
 - 👨‍💻 Username: **asadabbas-dev**
 
-- 🔭 I’m currently working in <a href="https://www.xevensolutions.com/" target="_blank">**Xeven Solutions**</a>
+- 🔭 I’m currently working in [**Xeven Solutions**](https://www.xevensolutions.com/)
 
 - 🌱 I’m currently learning **Vertex AI (Google Cloud Services)**
 
