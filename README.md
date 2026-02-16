@@ -19,7 +19,3 @@ https://www.linkedin.com/in/asad-abbas-the-consultant/
 
 Languages and Tools:
 aws azure bootstrap c cplusplus css3 django docker flask gcp git heroku html5 javascript jenkins kubernetes linux matlab mongodb mssql mysql nodejs opencv pandas php postgresql postman python pytorch react redis redux scikit_learn selenium sqlite tensorflow
-
-jaffarch
-
- jaffarch
