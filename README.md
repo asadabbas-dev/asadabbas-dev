@@ -4,10 +4,9 @@
 A passionate full stack AI developer
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=asadabbas-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
----
 
 - 👨‍💻 Username: **asadabbas-dev**
 
