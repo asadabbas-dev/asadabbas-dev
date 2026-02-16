@@ -25,9 +25,9 @@ A passionate full stack AI developer
 <h3>Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/asad-abbas-the-consultant/" target="_blank">
-    https://www.linkedin.com/in/asad-abbas-the-consultant/
-  </a>
+ <a href="https://www.linkedin.com/in/asad-abbas-the-consultant/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" />
+ </a>
 </p>
 
 <h3>Languages and Tools:</h3>
