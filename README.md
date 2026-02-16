@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./asadabbas.jpg" alt="Asad Abbas" width="400" />
+  <img src="./asadabbas.jpg" alt="Asad Abbas" width="1000" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Asad Abbas</h1>
